@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/Puneeth-14/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0665-non-decreasing-array](https://github.com/Puneeth-14/Leetcode/tree/master/0665-non-decreasing-array) |
 ## Recursion
 |  |
