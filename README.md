@@ -35,11 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Puneeth-14/Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Puneeth-14/Leetcode/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/Puneeth-14/Leetcode/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Puneeth-14/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Puneeth-14/Leetcode/tree/master/0007-reverse-integer) |
+| [1013-fibonacci-number](https://github.com/Puneeth-14/Leetcode/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Puneeth-14/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Puneeth-14/Leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Puneeth-14/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
