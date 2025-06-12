@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Puneeth-14/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Puneeth-14/Leetcode/tree/master/0054-spiral-matrix) |
 | [0485-max-consecutive-ones](https://github.com/Puneeth-14/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0665-non-decreasing-array](https://github.com/Puneeth-14/Leetcode/tree/master/0665-non-decreasing-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Puneeth-14/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -68,4 +69,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Puneeth-14/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Puneeth-14/Leetcode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Puneeth-14/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
