@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Puneeth-14/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Puneeth-14/Leetcode/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/Puneeth-14/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Puneeth-14/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Puneeth-14/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Puneeth-14/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Puneeth-14/Leetcode/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/Puneeth-14/Leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Puneeth-14/Leetcode/tree/master/0048-rotate-image) |
 | [1013-fibonacci-number](https://github.com/Puneeth-14/Leetcode/tree/master/1013-fibonacci-number) |
 ## Binary Search
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Puneeth-14/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Puneeth-14/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Puneeth-14/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/Puneeth-14/Leetcode/tree/master/0012-integer-to-roman) |
 ## Divide and Conquer
 |  |
 | ------- |
