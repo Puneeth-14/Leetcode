@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Puneeth-14/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Puneeth-14/Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Puneeth-14/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Puneeth-14/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Puneeth-14/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Puneeth-14/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Puneeth-14/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Puneeth-14/Leetcode/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/Puneeth-14/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Puneeth-14/Leetcode/tree/master/0054-spiral-matrix) |
 | [0485-max-consecutive-ones](https://github.com/Puneeth-14/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Puneeth-14/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Puneeth-14/Leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
