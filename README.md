@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Puneeth-14/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Puneeth-14/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Puneeth-14/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [1006-vowel-spellchecker](https://github.com/Puneeth-14/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Puneeth-14/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Linked List
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Puneeth-14/Leetcode/tree/master/0054-spiral-matrix) |
 | [0485-max-consecutive-ones](https://github.com/Puneeth-14/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0665-non-decreasing-array](https://github.com/Puneeth-14/Leetcode/tree/master/0665-non-decreasing-array) |
+| [1006-vowel-spellchecker](https://github.com/Puneeth-14/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1046-max-consecutive-ones-iii](https://github.com/Puneeth-14/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Puneeth-14/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Recursion
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Puneeth-14/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Puneeth-14/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Puneeth-14/Leetcode/tree/master/0014-longest-common-prefix) |
+| [1006-vowel-spellchecker](https://github.com/Puneeth-14/Leetcode/tree/master/1006-vowel-spellchecker) |
 ## Divide and Conquer
 |  |
 | ------- |
