@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0665-non-decreasing-array](https://github.com/Puneeth-14/Leetcode/tree/master/0665-non-decreasing-array) |
 | [1006-vowel-spellchecker](https://github.com/Puneeth-14/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1046-max-consecutive-ones-iii](https://github.com/Puneeth-14/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Puneeth-14/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Puneeth-14/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Recursion
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Puneeth-14/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Puneeth-14/Leetcode/tree/master/0048-rotate-image) |
 | [1013-fibonacci-number](https://github.com/Puneeth-14/Leetcode/tree/master/1013-fibonacci-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Puneeth-14/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
 | ------- |
