@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Puneeth-14/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Puneeth-14/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Puneeth-14/Leetcode/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Puneeth-14/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Puneeth-14/Leetcode/tree/master/0067-add-binary) |
 | [1006-vowel-spellchecker](https://github.com/Puneeth-14/Leetcode/tree/master/1006-vowel-spellchecker) |
 ## Divide and Conquer
