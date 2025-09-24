@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Puneeth-14/Leetcode/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/Puneeth-14/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Puneeth-14/Leetcode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Puneeth-14/Leetcode/tree/master/0066-plus-one) |
 | [0485-max-consecutive-ones](https://github.com/Puneeth-14/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0665-non-decreasing-array](https://github.com/Puneeth-14/Leetcode/tree/master/0665-non-decreasing-array) |
 | [1006-vowel-spellchecker](https://github.com/Puneeth-14/Leetcode/tree/master/1006-vowel-spellchecker) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Puneeth-14/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Puneeth-14/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Puneeth-14/Leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Puneeth-14/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Puneeth-14/Leetcode/tree/master/0067-add-binary) |
 | [1013-fibonacci-number](https://github.com/Puneeth-14/Leetcode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Puneeth-14/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
