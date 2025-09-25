@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Puneeth-14/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Puneeth-14/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Puneeth-14/Leetcode/tree/master/0066-plus-one) |
+| [0162-find-peak-element](https://github.com/Puneeth-14/Leetcode/tree/master/0162-find-peak-element) |
 | [0485-max-consecutive-ones](https://github.com/Puneeth-14/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0665-non-decreasing-array](https://github.com/Puneeth-14/Leetcode/tree/master/0665-non-decreasing-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Puneeth-14/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Puneeth-14/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0162-find-peak-element](https://github.com/Puneeth-14/Leetcode/tree/master/0162-find-peak-element) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Puneeth-14/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Puneeth-14/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Sliding Window
