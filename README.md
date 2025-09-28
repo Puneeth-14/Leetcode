@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Puneeth-14/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Puneeth-14/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1006-vowel-spellchecker](https://github.com/Puneeth-14/Leetcode/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/Puneeth-14/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1046-max-consecutive-ones-iii](https://github.com/Puneeth-14/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Puneeth-14/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Puneeth-14/Leetcode/tree/master/1791-richest-customer-wealth) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Puneeth-14/Leetcode/tree/master/0067-add-binary) |
 | [0830-largest-triangle-area](https://github.com/Puneeth-14/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/Puneeth-14/Leetcode/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Puneeth-14/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Puneeth-14/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1018-largest-perimeter-triangle](https://github.com/Puneeth-14/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Puneeth-14/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Sorting
 |  |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Puneeth-14/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Puneeth-14/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Puneeth-14/Leetcode/tree/master/0018-4sum) |
+| [1018-largest-perimeter-triangle](https://github.com/Puneeth-14/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 ## Bit Manipulation
 |  |
 | ------- |
